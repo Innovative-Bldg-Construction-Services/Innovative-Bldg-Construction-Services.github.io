@@ -578,7 +578,7 @@ strong,
 	position: absolute;
 	top: 0;
 	left: 0;
-	background: #1d1d1d;
+	/* background: #1d1d1d; */
 }
 .quick-link .logo a{
 	padding: 8px;
